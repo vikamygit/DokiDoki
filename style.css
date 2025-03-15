@@ -67,3 +67,11 @@ p {
 .btn:hover {
     background: #d81b60;
 }
+
+.gallery img{
+   width: 400px;
+   height: auto;
+   margin: 20px;
+   border: 3px solid white;
+   box-shadow: 3px 3px 5px rgb(140, 60, 60);
+}
